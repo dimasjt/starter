@@ -20,6 +20,8 @@ gem 'turbolinks'
 gem 'jquery-turbolinks'
 gem 'nprogress-rails'
 gem 'bootstrap-sass', '~> 3.3.5'
+gem 'omniauth'
+gem 'omniauth-facebook'
 
 # gem 'therubyracer', platforms: :ruby
 
